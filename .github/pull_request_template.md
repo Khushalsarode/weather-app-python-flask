@@ -6,8 +6,6 @@ Example: "Fixed a bug in the login API" or "Added weather forecast feature."
 
 Fixes # (issue number, if applicable)
 
----
-
 ## 🔄 Type of Change
 Select the type of change your PR introduces:
 - [ ] 🐛 Bug fix (non-breaking change which fixes an issue)
@@ -17,20 +15,12 @@ Select the type of change your PR introduces:
 - [ ] 🧪 Tests
 - [ ] 📄 Documentation update
 
----
-
 ## 🧩 Changes Made
 List the major changes you made:
-- 
-- 
-- 
 
----
 
 ## 📸 Screenshots (if applicable)
 Attach screenshots or screen recordings that demonstrate your changes.
-
----
 
 ## ✅ Checklist
 Please ensure all the following requirements are met before submitting:
@@ -40,8 +30,6 @@ Please ensure all the following requirements are met before submitting:
 - [ ] I have added or updated tests
 - [ ] I have updated documentation where necessary
 - [ ] My changes do not generate new warnings or errors
-
----
 
 ## 💬 Additional Comments
 Add any other context or information that reviewers should know.
