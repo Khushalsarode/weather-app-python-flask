@@ -244,7 +244,7 @@ If you encounter a bug or have an idea for improvement:
 If you need help, feel free to:
 
 * Open a discussion on the GitHub **Discussions** tab.
-* Tag `@vishakhasarode` in your issue or pull request for review.
+* Tag `@khushalsarode` in your issue or pull request for review.
 
 ---
 
@@ -254,7 +254,5 @@ Your contributions make this project better for everyone!
 Whether you’re fixing a typo or building a new feature — **you’re awesome**. 🌈
 
 > “The best way to predict the weather is to help build the forecast.” ⛅
-
-```
 
 ---
